@@ -1,0 +1,6 @@
+{
+  "name": "SciRead AI",
+  "description": "AI-Powered Scientific Reading Assistant for PDF Books and Research Papers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
